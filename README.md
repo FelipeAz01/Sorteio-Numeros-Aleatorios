@@ -34,7 +34,7 @@ O sorteador foi desenvolvido para ser prático e direto ao ponto. Ele ajuda os u
 
 ## 🌐 Deploy
 <div align="center"> 
-<a href="https://felipeaz01.github.io/Frutas-Drink/](https://felipeaz01.github.io/Sorteio-Numeros-Aleatorios">
+<a href="https://felipeaz01.github.io/Sorteio-Numeros-Aleatorios/">
   <img   width="120px" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"  /> 
 </a>
 </div>
