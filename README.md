@@ -6,7 +6,7 @@
 
 ## 📘 Descrição
 Este projeto é uma ferramenta simples e interativa que permite aos usuários gerar números aleatórios dentro de um intervalo personalizado.
-Basta inserir os números desejados, clicar no botão "Sortear" ou pressionar "Enter" para visualizar o número sorteado em um alerta. <br>
+Basta inserir os números desejados, clicar no botão "Sortear" ou pressionar "Enter" para visualizar o número sorteado. <br>
 O sorteador foi desenvolvido para ser prático e direto ao ponto. Ele ajuda os usuários a gerar números aleatórios em uma interface intuitiva e minimalista.
 
 ## 💡 Funcionalidades
