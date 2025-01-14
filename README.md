@@ -23,7 +23,9 @@ O sorteador foi desenvolvido para ser prático e direto ao ponto. Ele ajuda os u
 - JavaScript: 💻✨ Para implementar a lógica de geração de números aleatórios e exibição no alerta.
 
 ## 📷 Demonstração
-![Sorteador](https://github.com/user-attachments/assets/82d566bc-f258-4f4d-ab26-b9bfa953db67)
+![Macbook-Air-127 0 0 1](https://github.com/user-attachments/assets/568d55a2-72c1-4ba9-bebd-dfbca7877dcc)
+![Macbook-Air-127 0 0 1 (1)](https://github.com/user-attachments/assets/a45b3c85-7823-4f2c-bfbe-a517e2d3ab51)
+
 
 
 ## 💡 Próximos Passos
